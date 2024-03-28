@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Renzo Espinoza, and I'm currently an university student learning systems and software.
 - 👀 I’m interested in *systems, programming and a lot of arts*. Most of all I look foorward to learn **front-end development**
-- 🌱 I’m currently learning javascript and sonner, react
+- 🌱 I’m currently learning Next.js and API manipulations
 - 💞️ I’m looking to collaborate on open source, if the opportunity comes up
 ### 📫 How to reach me: @renzoesp_ on twitter
 
