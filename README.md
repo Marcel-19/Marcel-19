@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Renzo Espinoza, and I'm currently an university student learning systems and software.
-- 👀 I’m interested in *systems, programming and a lot of arts*. Most of all I look foorward to learn **front-end development**
-- 🌱 I’m currently learning Next.js and API manipulations
-- 💞️ I’m looking to collaborate on open source, if the opportunity comes up
+# 👋 Hi, I’m Renzo Espinoza, and I'm currently majoring on systems engineering at Peruvian University of Applied Sciences.
+- 👀 I’m interested in *systems, programming, and a lot of arts*.
+- 🌱 I’m currently learning Next.js and API's. 
+- 💞️ I’m looking to learn data scienc and/or service management
 ### 📫 How to reach me: @renzoesp_ on twitter
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
